@@ -1,0 +1,25 @@
+
+body{
+    margin: 0;
+    font-family: system-ui;
+}
+.hero{
+    text-align: center;
+    padding: 60px;
+    background-image: url(cse.jpg);
+    background-size:cover;
+    color: white;
+    background-repeat: no-repeat;
+    
+}
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px rgba(7, 7, 7, 0.1);
+    font-style:inherit;
+}
+a{
+    text-decoration: none;
+}
